@@ -20,5 +20,12 @@
   "homepage": "https://github.com/vsantanafigueira-data/Simulador-de-mundos#readme",
   "devDependencies": {
     "@types/node": "^25.5.0"
+  },
+  "dependencies": {
+    "@types/seedrandom": "^3.0.8",
+    "dotenv": "^17.4.0",
+    "openai": "^6.33.0",
+    "seedrandom": "^3.0.5",
+    "ts-node": "^10.9.2"
   }
 }
